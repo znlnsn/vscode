@@ -1,3 +1,4 @@
+https://dydytt.net/index.htm
 # 中英输入法符号  
 输入法设置在中文使用英文符号
 显示语言栏  
