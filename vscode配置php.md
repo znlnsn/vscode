@@ -5,9 +5,10 @@ vscode phpstudy
 open php  
 D:\phpstudy_pro\WWW <br>
 ![php](./php.jpg)
-'''
+
+"""php
 <?php
 echo "hello";
 $a=$_POST['a'];
 ?>
-'''
+"""
