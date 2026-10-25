@@ -8,7 +8,7 @@ open php
 
 
 D:\phpstudy_pro\WWW
-![php](./vscode/php.jpg)
+![php](./php.jpg)
 
 <?php
 echo "hello";
